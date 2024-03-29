@@ -1,70 +1,70 @@
-# Getting Started React App with Typescript, Redux Toolkit, Redux Saga, React Hook Form
+# Getting Started with Create React App
 
-The repository is dedicated to a React App with Typescript, Redux Toolkit, Redux Saga, React Hook Form
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<h1 align="center">
-  SAWADOGO Badini Ibrahim
-</h1>
+## Available Scripts
 
-[![GitHub badiniibrahim](https://img.shields.io/github/followers/badiniibrahim?label=follow&style=social)](https://github.com/badiniibrahim)
+In the project directory, you can run:
 
-[![Gmail Badge](https://img.shields.io/badge/-sawadogo.badiniibrahim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=sawadogo.badiniibrahim@gmail.com)](mailto:sawadogo.badiniibrahim@gmail.com)
+### `npm start`
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badini-ibrahim-s-306b119b/)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## About this Repository
-<div align="center">
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-![ts](https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?logo=typescript&logoColor=white&color=3178C6)
-![react](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![redux](https://img.shields.io/badge/Redux%20Toolkit-593D88?logo=redux&logoColor=white)
-![redux-saga](https://img.shields.io/badge/Redux%20Saga-86D46B?logo=redux%20saga&logoColor=white&color=74C417)
-![storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
-![license](https://img.shields.io/github/license/rbiedrawa/kafka-monitoring)
-</div>
+### `npm test`
 
-## Technologies
-- React.js
-- Beautiful layouts with TailwindCSS
-- Redux Toolkit
-- Redux Saga
-- React Hook Form
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
-### [LiveSite](https://react-redux-rtk-saga-tailwindcss-typescript.vercel.app/)
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-<div align="center">
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-![demo.gif](./gif/demo.gif)
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-</div>
+### `npm run eject`
 
-### Features
-1. [React.js](https://reactjs.org/) CRUD example with Redux Saga.
-2. [Typescript](https://www.typescriptlang.org/) for type safety
-4. Core libraries
-    * [Redux](https://redux.js.org/)
-    * [Redux Toolkit](https://redux-toolkit.js.org/)
-    * [Redux Saga](https://redux-saga.js.org/)
-    * [React Router](https://reactrouter.com/)
-    * [React Hook Form](https://react-hook-form.com/)
-    * [Yup](https://github.com/jquense/yup)
-    * [Axios](https://github.com/axios/axios)
-    * [Tailwindcss](https://tailwindcss.com/)
-5. Other tools/libraries
-    * [StoryBook](https://storybook.js.org/)
-      
-6. Tailwindcss UI Dark Mode support
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-   ## :running: Run Locally
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Clone the project
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-```bash
-  git clone https://github.com/badiniibrahim/react-redux-rtk-saga-tailwindcss-typescript.git
-```
-## Installation
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-```bash
-$ yarn install
-```
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
